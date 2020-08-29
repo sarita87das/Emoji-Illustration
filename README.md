@@ -1,2 +1,9 @@
 # Emoji-Illustration
-describing emoji's using just css...
+
+Describing Emoji's just using css
+ 
+ # Tools/Techologies used
+
+ HTML/CSS , Google Icons
+  
+  ![demo.gif](https://sarita87das.github.io/Emoji-Illustration/)
